@@ -67,7 +67,7 @@ Kali Linux is a multi-platform solution, accessible and freely available to info
 During Weeks 5-6, I learned about and practiced defenses against Denial of Service (DoS), Honeypot,Maltego,Shodan, and Port Security,Wıreshark capture
 
 
-* Denial of service (DoS) attack:
+* What is Denial of service (DoS) attack?
 
 A Denial of Service (DoS) assault is a form of cyberattack designed to render a computer or network resource inaccessible to its intended users.
 DoS attacks may be launched using a single or several devices, and they can target a particular service or the whole network.
