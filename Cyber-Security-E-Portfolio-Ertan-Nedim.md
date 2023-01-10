@@ -85,7 +85,7 @@ Point security and port security both use physical barriers, security personnel,
 
 
 
-* What is a honeypot?
+* What is a Honeypot?
 
 A honeypot is a network-connected machine that is designed to behave as a decoy, drawing in prospective attackers to disclose their harmful activities and giving organizations the chance to watch and follow them...
 
