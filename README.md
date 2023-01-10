@@ -25,17 +25,16 @@ We introduced cyber trust and taught detailed information.
 
 
 # Week 2
-We learned this commands in this week.And also for our e-portfolio.
+We learned this commands in details in this week.And also for our e-portfolio.
 
-•	tracet
-•	ing
-•	nslookup
-•	whois
-•	ipconfig
-•	nmap
+•	tracet : Windows network command-line utility used to help diagnose network routing issues. If you are familiar with Linux, this tool is similar to traceroute.
+•	nslookup : Name of a program that lets an Internet server administrator or any computer user enter a host name  and find out the corresponding IP address or domain name system record.
+•	whois : searches a user name directory and displays information about the user ID or nickname specified in the Name parameter
+•	ipconfig : This is a command-line application which displays all the current TCP/IP  network configuration, refreshes the DHCP and DNS .
+•	nmap : Is a free and open source tool used for vulnerability checking, port scanning and, of course, network mapping.
 
 
-In order to execute these commands, I discovered, we must first install certain packages in order to execute them in the windows command prompt. You can see on my scanning activty for e-portfolio
+ You can see on my scanning activity for e-portfolio
 
 # WEEK 3-4
 During weeks 3 and 4, ı try to understand Cyber Kill Chain.
