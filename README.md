@@ -12,11 +12,16 @@ We introduced cyber trust and taught detailed information.
 ·         Disaster recovery and business continuity define how an organization responds to a cyber-security incident or any other event that causes the loss of operations or data. Disaster recovery policies dictate how the organization restores its operations and information to return to the same operating capacity as before the event. Business continuity is the plan the organization falls back on while trying to operate without certain resources.
 ·         End-user education addresses the most unpredictable cyber-security factor: people. Anyone can accidentally introduce a virus to an otherwise secure system by failing to follow good security practices. Teaching users to delete suspicious email attachments, not plug in unidentified USB drives, and various other important lessons is vital for the security of any organization.
 
-* Different types of attacks found in bussines;*
-* Malware can close computer networks. The British National Health System (NHS) was recently hit by a ransomware (WannaCry) which disabled access to their information system (Smart, 2018). An example of a ransomware is WannaCry. Spyware, ransomware and adware aren’t really interchangeable – they’re all flavours of malware rather than equivalents 
-* Phishing When a user clicks on the advert, the links could give access to a hidden process which would lead to personal data being stolen.
- *Denial of service* This is done by a system flooding the targeted network or website with request traffic until it is unable to respond or crashes. 
-* APT The intention is to stay hidden in the network for a long period of time to understand operations and key areas of data storage. It is believed that these types of attacks are often state-sponsored.
+* Different types of attacks found in bussines;
+
+
+* Malware: can close computer networks. The British National Health System (NHS) was recently hit by a ransomware (WannaCry) which disabled access to their information system (Smart, 2018). An example of a ransomware is WannaCry. Spyware, ransomware and adware aren’t really interchangeable – they’re all flavours of malware rather than equivalents
+ 
+* Phishing: When a user clicks on the advert, the links could give access to a hidden process which would lead to personal data being stolen.
+
+ * Denial of service: This is done by a system flooding the targeted network or website with request traffic until it is unable to respond or crashes.
+  
+* APT: The intention is to stay hidden in the network for a long period of time to understand operations and key areas of data storage. It is believed that these types of attacks are often state-sponsored.
 
 
 # Week 2
