@@ -1,3 +1,7 @@
+![USD-Cyber-Cybersecurity-vs-Information-Security-vs-Network-Security-_2](https://user-images.githubusercontent.com/116110081/211615687-99cb132d-4a4d-4d56-b10b-6788ca6bc839.jpeg)
+
+
+
 # WEEK 1
 We introduced cyber trust and taught detailed information.
 * Cyber security is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It's also known as information technology security or electronic information security. The term applies in a variety of contexts, from business to mobile computing, and can be divided into a few common categories.
@@ -26,7 +30,7 @@ We learned this commands in this week.And also for our e-portfolio.
 •	nmap
 
 
-In order to execute these commands, I discovered, we must first install certain packages in order to execute them in the windows command prompt. I also had the opportunity to execute them in the terminal on a Linux machine. Finally, I report on the scanning activity as a whole, including the challenges I encountered and how I overcame them.
+In order to execute these commands, I discovered, we must first install certain packages in order to execute them in the windows command prompt. You can see on my scanning activty for e-portfolio
 
 # WEEK 3-4
 During weeks 3 and 4, ı try to understand Cyber Kill Chain.
