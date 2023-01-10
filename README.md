@@ -39,7 +39,7 @@ The SolarWinds breach was a nightmare come true for many businesses and people. 
 # WEEK 4-5
 We entered Kali Linux and started to learn Kali Linux.
 
-*What is Kali Linux ? *
+*What is Kali Linux ?*
 Kali Linux (formerly known as BackTrack Linux) is an open-source, Debian-based Linux distribution aimed at advanced Penetration Testing and Security Auditing. It does this by providing common tools, configurations, and automations which allows the user to focus on the task that needs to be completed, not the surrounding activity.
 Kali Linux contains industry specific modifications as well as several hundred tools targeted towards various Information Security tasks, such as Penetration Testing, Security Research, Computer Forensics, Reverse Engineering, Vulnerability Management and Red Team Testing.
 Kali Linux is a multi-platform solution, accessible and freely available to information security professionals and hobbyists.
