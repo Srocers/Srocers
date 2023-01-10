@@ -16,7 +16,7 @@ We introduced cyber trust and taught detailed information.
 
 
 # Week 2
-As part of my work on Scanning Activities, I became familiar with the syntax and functionality of these commands.
+We learned this commands in this week.And also for our e-portfolio.
 
 •	tracet
 •	ing
@@ -29,9 +29,10 @@ As part of my work on Scanning Activities, I became familiar with the syntax and
 In order to execute these commands, I discovered, we must first install certain packages in order to execute them in the windows command prompt. I also had the opportunity to execute them in the terminal on a Linux machine. Finally, I report on the scanning activity as a whole, including the challenges I encountered and how I overcame them.
 
 # WEEK 3-4
-During weeks 3 and 4, I focused my study on the Cyber Kill Chain. I did some study on the seven phases that make up this concept
+During weeks 3 and 4, ı try to understand Cyber Kill Chain.
 
 * What is The Cyber Kill Chain?
+
 The cyber death chain is a paradigm that outlines the processes an attacker takes during a cyber assault, from early surveillance to achieving their objectives. It includes reconnaissance, weaponization, delivery, exploitation, installation, command and control, and activities on targets. Understanding the cyber death chain may aid in the development of tactics for detecting and preventing assaults at different levels...
 
 * Worst-case scenario cyberattack:
@@ -39,7 +40,7 @@ The cyber death chain is a paradigm that outlines the processes an attacker take
 The SolarWinds breach was a nightmare come true for many businesses and people. It was especially frightening that the assault remained undiscovered for so long, since it provided the hackers sufficient opportunity to access the networks of some of the best-protected businesses in the world and steal important data. As a result of gaining access to critical government networks and data, the hack had far-reaching repercussions and had grave national security ramifications...
 
 # WEEK 4-5
-We entered Kali Linux and started to learn Kali Linux.
+We entered Kali Linux and started to learn Kali Linux and tools of it.
 
 * What is Kali Linux ?
 
