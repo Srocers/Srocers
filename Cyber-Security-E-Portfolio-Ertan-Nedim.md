@@ -118,7 +118,8 @@ An attack known as a "man-in-the-middle" (MITM) occurs when a hacker intercepts 
 # WEEK 8-9
 * Greenhouse Infrastructure in IoT
 
-In the context of a greenhouse, the term "IoT infrastructure" refers to the network of sensors, networking devices, and other hardware and software components that are used to monitor and manage the environment of the greenhouse. Collecting data on various parameters within a greenhouse, such as temperature, humidity, soil moisture, and light intensity, and utilizing this data to control the environment within the greenhouse is the primary objective of an Internet of Things (IoT) infrastructure designed for greenhouses, with the end goal of maximizing plant growth while simultaneously minimizing energy use...
+In the context of a greenhouse, the term "IoT infrastructure" refers to the network of sensors, networking devices, and other hardware and software components that are used to monitor and manage the environment of the greenhouse. Collecting data on various parameters within a greenhouse, such as temperature, humidity, soil moisture, and light intensity, and utilizing this data to control the environment within the greenhouse is the primary objective of an Internet of Things (IoT) infrastructure designed for greenhouses, with the end goal of maximizing plant growth while simultaneously minimizing energy use
+
 
 # WEEK 10-11
 
@@ -126,10 +127,17 @@ In the context of a greenhouse, the term "IoT infrastructure" refers to the netw
 
 
 [GOOD CYBERSECURITY PRACTISES FOR YOURSELF.docx](https://github.com/Srocers/Srocers/files/10384993/GOOD.CYBERSECURITY.PRACTISES.FOR.YOURSELF.docx)
-[GREEHHOUSE IoT exercise.docx](https://github.com/Srocers/Srocers/files/10384994/GREEHHOUSE.IoT.exercise.docx)
+
 [MY KALI EXPERIENCE.docx](https://github.com/Srocers/Srocers/files/10384995/MY.KALI.EXPERIENCE.docx)
+
 [Scanning Activity.docx](https://github.com/Srocers/Srocers/files/10384998/Scanning.Activity.docx)
+
 [What is man in the middle.docx](https://github.com/Srocers/Srocers/files/10384999/What.is.man.in.the.middle.docx)
+
 [Cyber Kill Chain Model.docx](https://github.com/Srocers/Srocers/files/10385000/Cyber.Kill.Chain.Model.docx)
+
 [Dread Model.docx](https://github.com/Srocers/Srocers/files/10385001/Dread.Model.docx)
+
 [CIA TRIANGLE.docx](https://github.com/Srocers/Srocers/files/10385016/CIA.TRIANGLE.docx)
+
+[GREEHHOUSE IoT exercise.docx](https://github.com/Srocers/Srocers/files/10385264/GREEHHOUSE.IoT.exercise.docx)
