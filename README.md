@@ -1,4 +1,4 @@
-#WEEK 1
+# WEEK 1
 We introduced cyber trust and taught detailed information.
 *Cyber security* is the practice of defending computers, servers, mobile devices, electronic systems, networks, and data from malicious attacks. It's also known as information technology security or electronic information security. The term applies in a variety of contexts, from business to mobile computing, and can be divided into a few common categories.
 ·         Network security is the practice of securing a computer network from intruders, whether targeted attackers or opportunistic malware.
@@ -15,7 +15,7 @@ We introduced cyber trust and taught detailed information.
 *APT* The intention is to stay hidden in the network for a long period of time to understand operations and key areas of data storage. It is believed that these types of attacks are often state-sponsored.
 
 
-#Week 2
+# Week 2
 As part of my work on Scanning Activities, I became familiar with the syntax and functionality of these commands.
 
 •	tracet
@@ -26,7 +26,7 @@ As part of my work on Scanning Activities, I became familiar with the syntax and
 •	nmap
 In order to execute these commands, I discovered, we must first install certain packages in order to execute them in the windows command prompt. I also had the opportunity to execute them in the terminal on a Linux machine. Finally, I report on the scanning activity as a whole, including the challenges I encountered and how I overcame them.
 
-#WEEK 3-4
+# WEEK 3-4
 During weeks 3 and 4, I focused my study on the Cyber Kill Chain. I did some study on the seven phases that make up this concept
 
 *What is The Cyber Kill Chain?*
@@ -36,7 +36,7 @@ The cyber death chain is a paradigm that outlines the processes an attacker take
 
 The SolarWinds breach was a nightmare come true for many businesses and people. It was especially frightening that the assault remained undiscovered for so long, since it provided the hackers sufficient opportunity to access the networks of some of the best-protected businesses in the world and steal important data. As a result of gaining access to critical government networks and data, the hack had far-reaching repercussions and had grave national security ramifications...
 
-#WEEK 4-5
+# WEEK 4-5
 We entered Kali Linux and started to learn Kali Linux.
 
 *What is Kali Linux ? *
@@ -46,7 +46,7 @@ Kali Linux is a multi-platform solution, accessible and freely available to info
 
 
 
-#WEEK  5-6
+# WEEK  5-6
 
 During Weeks 5-6, I learned about and practiced defenses against Denial of Service (DoS), Honeypot, and Port Security. 
 
@@ -65,14 +65,14 @@ Point security refers to a security system intended to defend a particular area 
 Port security is a security mechanism intended to safeguard ports and other maritime facilities from security threats.
 Point security and port security both use physical barriers, security personnel, and security technologies to prevent unwanted entry and maintain the safety and security of people and goods.
 
-#WEEK 6-7
+# WEEK 6-7
 *What is the man in the middle attack? (MITM)*
 An attack known as a "man-in-the-middle" (MITM) occurs when a hacker intercepts communication between two parties and poses as one of them to the other. By deceiving the participants into believing they are speaking directly to one another, the attacker is able to view the conversation and perhaps change it. MITM attacks may be difficult to identify and stop, and if they are successful, they might have detrimental effects. Use secure communication protocols like HTTPS and take further precautions such using strong passwords and two-factor authentication, being careful when connecting to untrusted networks or devices, utilizing a firewall and antivirus software to guard against MITM attacks.
 
-#WEEK 8-9
+# WEEK 8-9
 *Greenhouse Infrastructure in IoT*
 In the context of a greenhouse, the term "IoT infrastructure" refers to the network of sensors, networking devices, and other hardware and software components that are used to monitor and manage the environment of the greenhouse. Collecting data on various parameters within a greenhouse, such as temperature, humidity, soil moisture, and light intensity, and utilizing this data to control the environment within the greenhouse is the primary objective of an Internet of Things (IoT) infrastructure designed for greenhouses, with the end goal of maximizing plant growth while simultaneously minimizing energy use...
 
-#WEEK 10-11
+# WEEK 10-11
 
 I organized and compiled all of the information and data for all weeks that I had gathered for my e-portfolio.You can see on attached file
