@@ -66,7 +66,7 @@ Port security is a security mechanism intended to safeguard ports and other mari
 Point security and port security both use physical barriers, security personnel, and security technologies to prevent unwanted entry and maintain the safety and security of people and goods.
 
 # WEEK 6-7
-<a name="paragraph1"></a>*What is the man in the middle attack? (MITM)*
+<a name="What is the man in the middle attack?"></a> *What is the man in the middle attack? (MITM)*
 An attack known as a "man-in-the-middle" (MITM) occurs when a hacker intercepts communication between two parties and poses as one of them to the other. By deceiving the participants into believing they are speaking directly to one another, the attacker is able to view the conversation and perhaps change it. MITM attacks may be difficult to identify and stop, and if they are successful, they might have detrimental effects. Use secure communication protocols like HTTPS and take further precautions such using strong passwords and two-factor authentication, being careful when connecting to untrusted networks or devices, utilizing a firewall and antivirus software to guard against MITM attacks.
 
 # WEEK 8-9
