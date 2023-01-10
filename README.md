@@ -48,31 +48,71 @@ Kali Linux is a multi-platform solution, accessible and freely available to info
 
 # WEEK  5-6
 
-During Weeks 5-6, I learned about and practiced defenses against Denial of Service (DoS), Honeypot, and Port Security. 
+During Weeks 5-6, I learned about and practiced defenses against Denial of Service (DoS), Honeypot,Maltego,Shodan, and Port Security,Wıreshark capture
+
 
 *Denial of service (DoS) attack:*
+
 A Denial of Service (DoS) assault is a form of cyberattack designed to render a computer or network resource inaccessible to its intended users.
 DoS attacks may be launched using a single or several devices, and they can target a particular service or the whole network.
 DoS attacks may be very disruptive and inflict significant damage to persons and organizations by denying access to vital services.
 It is essential to employ security measures such as firewalls, intrusion detection and prevention systems, and load balancers to guard against DoS assaults.
 DoS assaults are unlawful and immoral, and it is essential to respect the rights and privacy of others while using the Internet...
 
-*What exactly is a honeypot?*
-A honeypot is a network-connected machine that is designed to behave as a decoy, drawing in prospective attackers to disclose their harmful activities and giving organizations the chance to watch and follow them...
 
-*What exactly is Port Security?*
+
+*What is Port Security?*
+
 Point security refers to a security system intended to defend a particular area or point of access.
 Port security is a security mechanism intended to safeguard ports and other maritime facilities from security threats.
 Point security and port security both use physical barriers, security personnel, and security technologies to prevent unwanted entry and maintain the safety and security of people and goods.
 
+
+
+*What is a honeypot?*
+
+A honeypot is a network-connected machine that is designed to behave as a decoy, drawing in prospective attackers to disclose their harmful activities and giving organizations the chance to watch and follow them...
+
+
+
+*What is Maltego?*
+
+Maltego is a comprehensive tool for graphical link analyses that offers real-time data mining and information gathering, as well as the representation of this information on a node-based graph, making patterns and multiple order connections between said information easily identifiable.
+With Maltego, you can easily mine data from dispersed sources, automatically merge matching information in one graph, and visually map it to explore your data landscape.
+Maltego offers the ability to easily connect data and functionalities from diverse sources using Transforms. Via the Transform Hub, you can connect data from over 80 data partners, a variety of public sources (OSINT) as well as your own data.
+
+
+
+*What is Shodan?*
+
+Shodan is a search engine that lets users search for various types of servers (webcams, routers, servers, etc.) connected to the internet using a variety of filters. Some have also described it as a search engine of service banners, which are metadata that the server sends back to the client.
+
+
+
+*What is Wireshark in Kali?*
+
+Wireshark is a network “sniffer” - a tool that captures and analyzes packets off the wire. Wireshark can decode too many protocols to list here. This package provides idl2wrs and other files necessary for developing new packet dissectors.
+
 # WEEK 6-7
-<a name="What is the man in the middle attack?"></a> 
+*What is the man in the middle attack? (MITM)*
+
 An attack known as a "man-in-the-middle" (MITM) occurs when a hacker intercepts communication between two parties and poses as one of them to the other. By deceiving the participants into believing they are speaking directly to one another, the attacker is able to view the conversation and perhaps change it. MITM attacks may be difficult to identify and stop, and if they are successful, they might have detrimental effects. Use secure communication protocols like HTTPS and take further precautions such using strong passwords and two-factor authentication, being careful when connecting to untrusted networks or devices, utilizing a firewall and antivirus software to guard against MITM attacks.
 
 # WEEK 8-9
 *Greenhouse Infrastructure in IoT*
+
 In the context of a greenhouse, the term "IoT infrastructure" refers to the network of sensors, networking devices, and other hardware and software components that are used to monitor and manage the environment of the greenhouse. Collecting data on various parameters within a greenhouse, such as temperature, humidity, soil moisture, and light intensity, and utilizing this data to control the environment within the greenhouse is the primary objective of an Internet of Things (IoT) infrastructure designed for greenhouses, with the end goal of maximizing plant growth while simultaneously minimizing energy use...
 
 # WEEK 10-11
 
-I organized and compiled all of the information and data for all weeks that I had gathered for my e-portfolio.You can see on attached file
+I organized and compiled all of the information and data for all weeks that I had gathered for my e-portfolio.You can see on attached files;
+
+
+[GOOD CYBERSECURITY PRACTISES FOR YOURSELF.docx](https://github.com/Srocers/Srocers/files/10384993/GOOD.CYBERSECURITY.PRACTISES.FOR.YOURSELF.docx)
+[GREEHHOUSE IoT exercise.docx](https://github.com/Srocers/Srocers/files/10384994/GREEHHOUSE.IoT.exercise.docx)
+[MY KALI EXPERIENCE.docx](https://github.com/Srocers/Srocers/files/10384995/MY.KALI.EXPERIENCE.docx)
+[Scanning Activity.docx](https://github.com/Srocers/Srocers/files/10384998/Scanning.Activity.docx)
+[What is man in the middle.docx](https://github.com/Srocers/Srocers/files/10384999/What.is.man.in.the.middle.docx)
+![CIA](https://user-images.githubusercontent.com/116110081/211613481-8c0c6269-b91a-4a6e-b3f5-ded8fa10c207.png)
+[Cyber Kill Chain Model.docx](https://github.com/Srocers/Srocers/files/10385000/Cyber.Kill.Chain.Model.docx)
+[Dread Model.docx](https://github.com/Srocers/Srocers/files/10385001/Dread.Model.docx)
