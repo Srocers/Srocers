@@ -28,9 +28,13 @@ We introduced cyber trust and taught detailed information.
 We learned this commands in details in this week.And also for our e-portfolio.
 
 •	tracet : Windows network command-line utility used to help diagnose network routing issues. If you are familiar with Linux, this tool is similar to traceroute.
+
 •	nslookup : Name of a program that lets an Internet server administrator or any computer user enter a host name  and find out the corresponding IP address or domain name system record.
+
 •	whois : searches a user name directory and displays information about the user ID or nickname specified in the Name parameter
+
 •	ipconfig : This is a command-line application which displays all the current TCP/IP  network configuration, refreshes the DHCP and DNS .
+
 •	nmap : Is a free and open source tool used for vulnerability checking, port scanning and, of course, network mapping.
 
 
