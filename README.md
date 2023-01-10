@@ -105,7 +105,7 @@ In the context of a greenhouse, the term "IoT infrastructure" refers to the netw
 
 # WEEK 10-11
 
-I organized and compiled all of the information and data for all weeks that I had gathered for my e-portfolio.You can see on attached files;
+* In this week ı organized and compiled all of the informationS and data for all weeks that I had gathered for my e-portfolio.You can see on attached files;*
 
 
 [GOOD CYBERSECURITY PRACTISES FOR YOURSELF.docx](https://github.com/Srocers/Srocers/files/10384993/GOOD.CYBERSECURITY.PRACTISES.FOR.YOURSELF.docx)
@@ -113,6 +113,6 @@ I organized and compiled all of the information and data for all weeks that I ha
 [MY KALI EXPERIENCE.docx](https://github.com/Srocers/Srocers/files/10384995/MY.KALI.EXPERIENCE.docx)
 [Scanning Activity.docx](https://github.com/Srocers/Srocers/files/10384998/Scanning.Activity.docx)
 [What is man in the middle.docx](https://github.com/Srocers/Srocers/files/10384999/What.is.man.in.the.middle.docx)
-![CIA](https://user-images.githubusercontent.com/116110081/211613481-8c0c6269-b91a-4a6e-b3f5-ded8fa10c207.png)
 [Cyber Kill Chain Model.docx](https://github.com/Srocers/Srocers/files/10385000/Cyber.Kill.Chain.Model.docx)
 [Dread Model.docx](https://github.com/Srocers/Srocers/files/10385001/Dread.Model.docx)
+[CIA TRIANGLE.docx](https://github.com/Srocers/Srocers/files/10385016/CIA.TRIANGLE.docx)
